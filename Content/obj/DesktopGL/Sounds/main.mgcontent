@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/MonoRepo/RPGPractice/Content/Sounds/main.mp3</SourceFile>
+  <SourceTime>2023-01-09T13:35:34.0317177-06:00</SourceTime>
+  <DestFile>E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Sounds/main.xnb</DestFile>
+  <DestTime>2023-01-10T16:16:10.7292653-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T06:44:56-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T06:44:56-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Sounds/main.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

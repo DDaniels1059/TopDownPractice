@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/david/Desktop/RPGBoy/walkDown.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/NewPlayer/walkDown.xnb","TextureProcessor","Texture2DContent",2605,147541,0.0836674
+"E:/MonoRepo/RPGPractice/Content/Health.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Health.xnb","TextureProcessor","Texture2DContent",143,1109,0.0007421
+"E:/MonoRepo/RPGPractice/Content/hellsurface.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/hellsurface.xnb","TextureProcessor","Texture2DContent",13254,2949205,0.0533406
+"E:/MonoRepo/RPGPractice/Content/Misc/ball.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Misc/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0012308
+"E:/MonoRepo/RPGPractice/Content/Misc/debugMarker.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Misc/debugMarker.xnb","TextureProcessor","Texture2DContent",276,36949,0.0014585
+"E:/MonoRepo/RPGPractice/Content/Misc/skull.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Misc/skull.xnb","TextureProcessor","Texture2DContent",3603,368725,0.0091397
+"E:/MonoRepo/RPGPractice/Content/Misc/timerFont.spritefont","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Misc/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.1456974
+"E:/MonoRepo/RPGPractice/Content/NewPlayer/walkDown.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/NewPlayer/walkDown.xnb","TextureProcessor","Texture2DContent",2605,147541,0.0040847
+"E:/MonoRepo/RPGPractice/Content/NewPlayer/walkLeft.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/NewPlayer/walkLeft.xnb","TextureProcessor","Texture2DContent",2485,147541,0.0021984
+"E:/MonoRepo/RPGPractice/Content/NewPlayer/walkRight.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/NewPlayer/walkRight.xnb","TextureProcessor","Texture2DContent",2424,147541,0.0032059
+"E:/MonoRepo/RPGPractice/Content/NewPlayer/walkUp.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/NewPlayer/walkUp.xnb","TextureProcessor","Texture2DContent",2562,147541,0.0024697
+"E:/MonoRepo/RPGPractice/Content/node.png","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/node.xnb","TextureProcessor","Texture2DContent",378,36949,0.008729
+"E:/MonoRepo/RPGPractice/Content/Sounds/main.mp3","E:/MonoRepo/RPGPractice/Content/bin/DesktopGL/Content/Sounds/main.xnb","SongProcessor","SongContent",2626721,122,1.7598693

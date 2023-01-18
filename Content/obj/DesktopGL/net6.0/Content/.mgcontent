@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/david/Desktop/RPGBoy/walkDown.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Health.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/hellsurface.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Misc/ball.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Misc/debugMarker.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Misc/skull.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Misc/timerFont.spritefont</File>
+    <File>E:/MonoRepo/RPGPractice/Content/NewPlayer/walkDown.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/NewPlayer/walkLeft.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/NewPlayer/walkRight.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/NewPlayer/walkUp.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/node.png</File>
+    <File>E:/MonoRepo/RPGPractice/Content/Sounds/main.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>NewPlayer/walkDown.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
